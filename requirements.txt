@@ -27,7 +27,7 @@ packaging==21.3
 pkginfo==1.8.3
 pluggy==1.0.0
 py==1.11.0
-pydantic==1.8.2
+pydantic==1.9.1
 pydantic-openapi-helper==0.2.9
 Pygments==2.10.0
 pyparsing==2.4.7
