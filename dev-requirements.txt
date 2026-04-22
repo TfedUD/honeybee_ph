@@ -12,7 +12,7 @@ pytest-cov>=3.0.0
 rich>=12.4.4
 Rhino-stubs>=7.7.21140
 setuptools>=44.1.0;python_version<'3.0'
-setuptools>=63.1.0;python_version>='3.6'
+setuptools>=82.0.1;python_version>='3.6'
 Sphinx>=1.8.5;python_version<'3.0'
 Sphinx>=5.0.2;python_version>='3.6'
 docutils>=0.17;python_version>='3.6'
