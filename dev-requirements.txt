@@ -7,7 +7,7 @@ GH-IO-stubs>=7.7.21140
 GH-Util-stubs>=7.7.21140
 Grasshopper-stubs>=7.7.21140
 pytest==4.6.9;python_version<'3.0'
-pytest>=6.2.4;python_version>='3.6'
+pytest>=9.0.3;python_version>='3.6'
 pytest-cov>=3.0.0
 rich>=12.4.4
 Rhino-stubs>=7.7.21140
